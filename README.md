@@ -36,12 +36,63 @@ This project explores the correlation of different attributes such as score, eth
 - Analyzes correlation between scores and ethnicity.
 - Evaluates the impact of age on scores.
 - Uses various data analysis techniques to explore the relationships.
+## Airport Data Analysis
+This project involves analyzing airport data, focusing on various aspects of airport operations and performance.
+
+#### Key Features:
+- Analyzes flight schedules and delays.
+- Evaluates airport performance metrics.
+- Visualizes data using Jupyter notebooks.
+
+### Correlation Among Different Attributes
+This project explores the correlation of different attributes such as score, ethnicity, and age using data analysis techniques.
+
+#### Key Features:
+- Analyzes correlation between scores and ethnicity.
+- Evaluates the impact of age on scores.
+- Uses various data analysis techniques to explore the relationships.
+
+### Customer Segmentation
+This project uses clustering techniques to segment customers based on their behaviors and characteristics.
+
+#### Key Features:
+- Analyzes customer purchasing behaviors.
+- Segments customers into distinct groups.
+- Provides insights for targeted marketing strategies.
+
+### Data Visualization
+This project focuses on visualizing various datasets to uncover patterns and insights.
+
+#### Key Features:
+- Creates interactive visualizations.
+- Uses tools like Matplotlib, Seaborn, and Plotly.
+- Provides dashboards for data exploration.
+
+### Ecommerce Data Analysis
+This project analyzes ecommerce data to understand sales patterns, customer behaviors, and product performance.
+
+#### Key Features:
+- Analyzes sales data.
+- Evaluates customer purchasing patterns.
+- Assesses product performance and trends.
+
+### Marketing Data Analysis
+This project involves analyzing marketing data to evaluate the effectiveness of different marketing strategies.
+
+#### Key Features:
+- Analyzes marketing campaign data.
+- Evaluates customer engagement metrics.
+- Provides insights for improving marketing strategies.
 
 ## Repository Structure
 - `Employees-Data-Analysis/`: Contains scripts and data related to the Employees Data Analysis project.
 - `Currency-Exchange-Analysis/`: Contains scripts and data related to the Currency Exchange Analysis project.
 - `Airport-Data-Analysis/`: Contains scripts and data related to the Airport Data Analysis project.
 - `Correlation-Among-Different-Attributes/`: Contains scripts and data related to the Correlation Among Different Attributes project.
+- `Customer-Segmentation/`: Contains scripts and data related to the Customer Segmentation project.
+- `Data-Visualization/`: Contains scripts and data related to the Data Visualization project.
+- `Ecommerce-Data-Analysis/`: Contains scripts and data related to the Ecommerce Data Analysis project.
+- `Marketing-DataAnalysis/`: Contains scripts and data related to the Marketing Data Analysis project.
 - `README.md`: Overview of the repository and its contents.
 
 ## Getting Started
