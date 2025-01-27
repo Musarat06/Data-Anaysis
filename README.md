@@ -21,9 +21,27 @@ This project involves analyzing currency exchange rates to identify trends and p
 - Visualization of currency trends.
 - Statistical analysis of exchange rate fluctuations.
 
+### Airport Data Analysis
+This project involves analyzing airport data, focusing on various aspects of airport operations and performance.
+
+#### Key Features:
+- Analyzes flight schedules and delays.
+- Evaluates airport performance metrics.
+- Visualizes data using Jupyter notebooks.
+
+### Correlation Among Different Attributes
+This project explores the correlation of different attributes such as score, ethnicity, and age using data analysis techniques.
+
+#### Key Features:
+- Analyzes correlation between scores and ethnicity.
+- Evaluates the impact of age on scores.
+- Uses various data analysis techniques to explore the relationships.
+
 ## Repository Structure
 - `Employees-Data-Analysis/`: Contains scripts and data related to the Employees Data Analysis project.
 - `Currency-Exchange-Analysis/`: Contains scripts and data related to the Currency Exchange Analysis project.
+- `Airport-Data-Analysis/`: Contains scripts and data related to the Airport Data Analysis project.
+- `Correlation-Among-Different-Attributes/`: Contains scripts and data related to the Correlation Among Different Attributes project.
 - `README.md`: Overview of the repository and its contents.
 
 ## Getting Started
