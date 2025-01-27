@@ -21,14 +21,6 @@ This project involves analyzing currency exchange rates to identify trends and p
 - Visualization of currency trends.
 - Statistical analysis of exchange rate fluctuations.
 
-### Airport Data Analysis
-This project involves analyzing airport data, focusing on various aspects of airport operations and performance.
-
-#### Key Features:
-- Analyzes flight schedules and delays.
-- Evaluates airport performance metrics.
-- Visualizes data using Jupyter notebooks.
-
 ### Correlation Among Different Attributes
 This project explores the correlation of different attributes such as score, ethnicity, and age using data analysis techniques.
 
@@ -44,13 +36,6 @@ This project involves analyzing airport data, focusing on various aspects of air
 - Evaluates airport performance metrics.
 - Visualizes data using Jupyter notebooks.
 
-### Correlation Among Different Attributes
-This project explores the correlation of different attributes such as score, ethnicity, and age using data analysis techniques.
-
-#### Key Features:
-- Analyzes correlation between scores and ethnicity.
-- Evaluates the impact of age on scores.
-- Uses various data analysis techniques to explore the relationships.
 
 ### Customer Segmentation
 This project uses clustering techniques to segment customers based on their behaviors and characteristics.
